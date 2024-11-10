@@ -1,0 +1,90 @@
+.answer {
+    padding-top: 20px;
+    padding-bottom: 100px;
+    position: relative;
+}
+
+.answer .container {
+    display: flex;
+    flex-direction: column;
+}
+.answer-pre-title {
+    color: #DCDCF3;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 60px;
+
+}
+.answer-pre-title img {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.answer-pre-title span {
+    color: #6933DC;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+}
+.answer-question-options {
+    max-width: 1336px;
+}
+
+
+.answer-question-title {
+    margin-bottom: 40px;
+    font-family: "Museo Sans Cyrl Bold", sans-serif;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: left;
+
+}
+.answer-question-title span {
+    color: #6933DC;
+
+}
+.answer-question-option {
+    margin-bottom: 20px;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    display: flex;
+
+}
+
+.go-back-answer-question {
+    position: absolute;
+    right: 120px;
+    bottom: 0;
+    display: flex;
+    justify-items: left;
+}
+
+
+.go-back-answer-question a {
+    font-size: 17px;
+    line-height: 20px;
+    color: #6933DC;
+    text-decoration: none;
+
+}
+.go-back-answer-question a:hover {
+    text-decoration: underline;
+}
+.go-back-answer-question a img {
+    margin-left: 13px;
+}
+.test-performed {
+    margin-bottom: 60px;
+    font-size: 20px;
+    line-height: 24px;
+}
+.performer {
+    font-family: Museo Sans Cyrl Bold, sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    color: #6933DC;
+}
+.big-title {
+    margin-bottom: 10px;
+}
